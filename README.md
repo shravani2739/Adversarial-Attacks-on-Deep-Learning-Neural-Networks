@@ -8,11 +8,17 @@ Features
 Implementation of various adversarial attack algorithms, including:
 
 Fast Gradient Sign Method (FGSM)
+
 Transferability Attack
+
 Projected Gradient Descent (PGD)
+
 Carlini & Wagner (C&W) Attack
+
 DeepFool Attack
 
 Evaluation of model robustness against adversarial attacks
+
 Visualization tools for understanding and interpreting adversarial examples
+
 Comprehensive documentation and examples for ease of use
